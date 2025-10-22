@@ -1,0 +1,7 @@
+{
+    "name":"Transforme Texto",
+    "version":  "1.0",
+    "manifest_version": 3,
+    "description": "Extensão para transformar seus textos em letras MAIÚSCULAS ou minúsculas" ,
+    "action":{"default_popup":"index.html"}                               
+}
